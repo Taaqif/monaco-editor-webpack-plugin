@@ -9,7 +9,7 @@ const EDITOR_MODULE = {
   worker: {
     id: 'vs/editor/editor',
     entry: 'vs/editor/editor.worker',
-    output: 'editor.worker.[hash].js',
+    output: 'editor.worker.1734547f065ece81a28f96ffc031306f.js',
     fallback: undefined
   },
   alias: undefined,
